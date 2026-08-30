@@ -30,7 +30,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          git pull origin main --rebase
           git add matches.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Güncel Premier Lig Verileri"
-          git push
+          git commit -m "Güncel Oranlı Veriler" || echo "Değişiklik yok"
+          git push origin HEAD
