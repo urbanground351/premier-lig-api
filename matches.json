@@ -1,0 +1,111 @@
+{
+  "last_updated": "2026-08-30T15:01:04.433414",
+  "source": "ESPN Açık API (Premier Lig)",
+  "matches": [
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Chelsea",
+      "away": "Brighton & Hove Albion",
+      "time": "16:00",
+      "date": "30.08.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Leeds United",
+      "away": "Brentford",
+      "time": "16:00",
+      "date": "30.08.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Sunderland",
+      "away": "Fulham",
+      "time": "16:00",
+      "date": "30.08.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Manchester United",
+      "away": "Ipswich Town",
+      "time": "18:30",
+      "date": "30.08.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Aston Villa",
+      "away": "Arsenal",
+      "time": "22:00",
+      "date": "31.08.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Ipswich Town",
+      "away": "Liverpool",
+      "time": "22:00",
+      "date": "04.09.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Newcastle United",
+      "away": "AFC Bournemouth",
+      "time": "14:30",
+      "date": "05.09.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Brentford",
+      "away": "Sunderland",
+      "time": "17:00",
+      "date": "05.09.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Brighton & Hove Albion",
+      "away": "Leeds United",
+      "time": "17:00",
+      "date": "05.09.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Fulham",
+      "away": "Crystal Palace",
+      "time": "17:00",
+      "date": "05.09.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Manchester City",
+      "away": "Coventry City",
+      "time": "17:00",
+      "date": "05.09.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Nottingham Forest",
+      "away": "Tottenham Hotspur",
+      "time": "17:00",
+      "date": "05.09.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Hull City",
+      "away": "Aston Villa",
+      "time": "19:30",
+      "date": "05.09.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Everton",
+      "away": "Manchester United",
+      "time": "16:00",
+      "date": "06.09.2026"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Arsenal",
+      "away": "Chelsea",
+      "time": "18:30",
+      "date": "06.09.2026"
+    }
+  ]
+}
