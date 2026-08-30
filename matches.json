@@ -1,111 +1,102 @@
 {
-  "last_updated": "2026-08-30T15:01:04.433414",
-  "source": "ESPN Açık API (Premier Lig)",
+  "last_updated": "2026-08-30T15:56:53.910140",
+  "source": "Kambi CDN (Premier Lig)",
   "matches": [
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Chelsea",
-      "away": "Brighton & Hove Albion",
-      "time": "16:00",
-      "date": "30.08.2026"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Leeds United",
-      "away": "Brentford",
-      "time": "16:00",
-      "date": "30.08.2026"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Sunderland",
-      "away": "Fulham",
-      "time": "16:00",
-      "date": "30.08.2026"
-    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Manchester United",
       "away": "Ipswich Town",
       "time": "18:30",
-      "date": "30.08.2026"
+      "date": "30.08.2026",
+      "odds": "MS1: 1.36 | X: 4.70 | MS2: 8.00"
     },
     {
       "league": "İngiltere Premier Lig",
       "home": "Aston Villa",
       "away": "Arsenal",
       "time": "22:00",
-      "date": "31.08.2026"
+      "date": "31.08.2026",
+      "odds": "MS1: 6.75 | X: 4.25 | MS2: 1.50"
     },
     {
       "league": "İngiltere Premier Lig",
       "home": "Ipswich Town",
       "away": "Liverpool",
       "time": "22:00",
-      "date": "04.09.2026"
+      "date": "04.09.2026",
+      "odds": "MS1: 5.20 | X: 4.00 | MS2: 1.61"
     },
     {
       "league": "İngiltere Premier Lig",
       "home": "Newcastle United",
-      "away": "AFC Bournemouth",
+      "away": "Bournemouth",
       "time": "14:30",
-      "date": "05.09.2026"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Brentford",
-      "away": "Sunderland",
-      "time": "17:00",
-      "date": "05.09.2026"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Brighton & Hove Albion",
-      "away": "Leeds United",
-      "time": "17:00",
-      "date": "05.09.2026"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Fulham",
-      "away": "Crystal Palace",
-      "time": "17:00",
-      "date": "05.09.2026"
+      "date": "05.09.2026",
+      "odds": "MS1: 2.30 | X: 3.60 | MS2: 2.85"
     },
     {
       "league": "İngiltere Premier Lig",
       "home": "Manchester City",
       "away": "Coventry City",
       "time": "17:00",
-      "date": "05.09.2026"
+      "date": "05.09.2026",
+      "odds": "MS1: 1.19 | X: 7.00 | MS2: 12.50"
     },
     {
       "league": "İngiltere Premier Lig",
       "home": "Nottingham Forest",
-      "away": "Tottenham Hotspur",
+      "away": "Tottenham",
       "time": "17:00",
-      "date": "05.09.2026"
+      "date": "05.09.2026",
+      "odds": "MS1: 2.65 | X: 3.15 | MS2: 2.70"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Brentford",
+      "away": "Sunderland",
+      "time": "17:00",
+      "date": "05.09.2026",
+      "odds": "MS1: 1.63 | X: 3.85 | MS2: 5.25"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Brighton",
+      "away": "Leeds United",
+      "time": "17:00",
+      "date": "05.09.2026",
+      "odds": "MS1: 1.70 | X: 3.80 | MS2: 4.70"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Fulham",
+      "away": "Crystal Palace",
+      "time": "17:00",
+      "date": "05.09.2026",
+      "odds": "MS1: 2.38 | X: 3.35 | MS2: 2.90"
     },
     {
       "league": "İngiltere Premier Lig",
       "home": "Hull City",
       "away": "Aston Villa",
       "time": "19:30",
-      "date": "05.09.2026"
+      "date": "05.09.2026",
+      "odds": "MS1: 3.90 | X: 3.55 | MS2: 1.90"
     },
     {
       "league": "İngiltere Premier Lig",
       "home": "Everton",
       "away": "Manchester United",
       "time": "16:00",
-      "date": "06.09.2026"
+      "date": "06.09.2026",
+      "odds": "MS1: 2.95 | X: 3.50 | MS2: 2.25"
     },
     {
       "league": "İngiltere Premier Lig",
       "home": "Arsenal",
       "away": "Chelsea",
       "time": "18:30",
-      "date": "06.09.2026"
+      "date": "06.09.2026",
+      "odds": "MS1: 1.63 | X: 3.85 | MS2: 5.20"
     }
   ]
 }
