@@ -3,12 +3,12 @@ import json
 from datetime import datetime, timedelta
 
 def fetch_matches():
-    # Kambi CDN - İngiltere Premier Lig Ağı
-    url = "https://eu-offering-api.kambicdn.com/offering/v2018/ub/listView/football/england/premier_league.json?lang=tr_TR&market=TR"
+    # Sadece Premier Lig değil, tüm İngiltere havuzunu çeken ana link
+    url = "https://eu-offering-api.kambicdn.com/offering/v2018/ub/listView/football/england.json?lang=tr_TR&market=TR"
     
     final_data = {
         "last_updated": datetime.now().isoformat(),
-        "source": "Kambi CDN (Premier Lig)",
+        "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
         "matches": []
     }
     
@@ -19,6 +19,14 @@ def fetch_matches():
             
             for event_data in data.get("events", []):
                 event = event_data.get("event", {})
+                
+                # FİLTRE: İçinde sadece "premier" kelimesi geçenleri yakalıyoruz
+                path_names = [str(p.get("name", "")).lower() for p in event.get("path", [])]
+                is_premier_league = any("premier" in p for p in path_names)
+                
+                if not is_premier_league:
+                    continue
+
                 home = event.get("homeName", "Ev Sahibi")
                 away = event.get("awayName", "Deplasman")
                 
@@ -52,10 +60,11 @@ def fetch_matches():
                     "odds": odds_info
                 })
     except Exception as e:
-        print(f"Hata: {e}")
+        print(f"Bağlantı Hatası: {e}")
 
     with open("matches.json", "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
+        print(f"İşlem Tamam! {len(final_data['matches'])} Premier Lig maçı başarıyla çekildi.")
 
 if __name__ == "__main__":
     fetch_matches()
