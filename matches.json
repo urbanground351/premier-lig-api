@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-08-31T00:04:17.666498",
+  "last_updated": "2026-08-31T00:07:21.630926",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Derby County U21",
+      "away": "West Bromwich Albion U21",
+      "time": "15:00",
+      "date": "31.08.2026",
+      "odds": "MS1: 2.25 | X: 3.40 | MS2: 2.50"
+    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Curzon Ashton",
