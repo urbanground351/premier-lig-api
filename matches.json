@@ -1,62 +1,14 @@
 {
-  "last_updated": "2026-09-04T12:14:41.720695",
+  "last_updated": "2026-09-05T00:17:19.673023",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "West Ham U21",
-      "away": "Brighton U21",
-      "time": "21:00",
-      "date": "04.09.2026",
-      "odds": "MS1: 2.14 | X: 3.85 | MS2: 2.48"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Leicester City U21",
-      "away": "Bournemouth U21",
-      "time": "21:00",
-      "date": "04.09.2026",
-      "odds": "MS1: 1.94 | X: 4.10 | MS2: 2.70"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Charlton Athletic U21",
-      "away": "Leeds United U21",
-      "time": "21:00",
-      "date": "04.09.2026",
-      "odds": "MS1: 2.43 | X: 3.85 | MS2: 2.17"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Coventry City U21",
-      "away": "West Bromwich Albion U21",
-      "time": "21:00",
-      "date": "04.09.2026",
-      "odds": "MS1: 2.65 | X: 3.95 | MS2: 2.00"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Stockport County U21",
-      "away": "Stoke City U21",
-      "time": "21:00",
-      "date": "04.09.2026",
-      "odds": "MS1: 2.70 | X: 4.10 | MS2: 1.95"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Ipswich Town",
-      "away": "Liverpool",
-      "time": "22:00",
-      "date": "04.09.2026",
-      "odds": "MS1: 5.60 | X: 4.80 | MS2: 1.52"
-    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Newcastle United",
       "away": "Bournemouth",
       "time": "14:30",
       "date": "05.09.2026",
-      "odds": "MS1: 2.10 | X: 3.65 | MS2: 3.25"
+      "odds": "MS1: 2.07 | X: 3.65 | MS2: 3.40"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -64,7 +16,7 @@
       "away": "Sunderland",
       "time": "17:00",
       "date": "05.09.2026",
-      "odds": "MS1: 1.66 | X: 3.80 | MS2: 5.50"
+      "odds": "MS1: 1.62 | X: 3.85 | MS2: 5.75"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -72,7 +24,7 @@
       "away": "Leeds United",
       "time": "17:00",
       "date": "05.09.2026",
-      "odds": "MS1: 2.00 | X: 3.40 | MS2: 3.90"
+      "odds": "MS1: 1.97 | X: 3.55 | MS2: 3.85"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -80,7 +32,7 @@
       "away": "Crystal Palace",
       "time": "17:00",
       "date": "05.09.2026",
-      "odds": "MS1: 2.32 | X: 3.40 | MS2: 3.05"
+      "odds": "MS1: 2.20 | X: 3.45 | MS2: 3.25"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -88,7 +40,7 @@
       "away": "Coventry City",
       "time": "17:00",
       "date": "05.09.2026",
-      "odds": "MS1: 1.16 | X: 8.50 | MS2: 16.00"
+      "odds": "MS1: 1.14 | X: 9.00 | MS2: 17.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -96,7 +48,7 @@
       "away": "Tottenham",
       "time": "17:00",
       "date": "05.09.2026",
-      "odds": "MS1: 2.40 | X: 3.40 | MS2: 2.90"
+      "odds": "MS1: 2.43 | X: 3.40 | MS2: 2.88"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -104,7 +56,7 @@
       "away": "Aston Villa",
       "time": "19:30",
       "date": "05.09.2026",
-      "odds": "MS1: 4.10 | X: 3.60 | MS2: 1.88"
+      "odds": "MS1: 4.10 | X: 3.65 | MS2: 1.88"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -136,7 +88,7 @@
       "away": "Ipswich Town",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 1.90 | X: 3.45 | MS2: 4.00"
+      "odds": "MS1: 1.90 | X: 3.50 | MS2: 4.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -184,7 +136,7 @@
       "away": "Brighton",
       "time": "16:00",
       "date": "13.09.2026",
-      "odds": "MS1: 4.10 | X: 3.75 | MS2: 1.80"
+      "odds": "MS1: 4.00 | X: 3.80 | MS2: 1.81"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -200,7 +152,7 @@
       "away": "Newcastle United",
       "time": "22:00",
       "date": "14.09.2026",
-      "odds": "MS1: 2.48 | X: 3.50 | MS2: 2.65"
+      "odds": "MS1: 2.50 | X: 3.50 | MS2: 2.65"
     }
   ]
 }
