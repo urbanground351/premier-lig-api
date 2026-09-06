@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T00:18:36.664030",
+  "last_updated": "2026-09-06T12:13:28.181278",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
     {
@@ -8,7 +8,7 @@
       "away": "Manchester United",
       "time": "16:00",
       "date": "06.09.2026",
-      "odds": "MS1: 3.55 | X: 3.50 | MS2: 2.07"
+      "odds": "MS1: 3.75 | X: 3.80 | MS2: 1.98"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -16,7 +16,7 @@
       "away": "Chelsea",
       "time": "18:30",
       "date": "06.09.2026",
-      "odds": "MS1: 1.66 | X: 4.00 | MS2: 5.10"
+      "odds": "MS1: 1.71 | X: 3.75 | MS2: 5.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -64,7 +64,7 @@
       "away": "Everton",
       "time": "19:30",
       "date": "12.09.2026",
-      "odds": "MS1: 1.98 | X: 3.45 | MS2: 3.70"
+      "odds": "MS1: 2.00 | X: 3.45 | MS2: 3.65"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -96,7 +96,7 @@
       "away": "Newcastle United",
       "time": "22:00",
       "date": "14.09.2026",
-      "odds": "MS1: 2.50 | X: 3.50 | MS2: 2.65"
+      "odds": "MS1: 2.40 | X: 3.50 | MS2: 2.75"
     }
   ]
 }
