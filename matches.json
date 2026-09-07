@@ -1,22 +1,38 @@
 {
-  "last_updated": "2026-09-06T12:13:28.181278",
+  "last_updated": "2026-09-07T00:18:41.696478",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
     {
       "league": "İngiltere Premier Lig",
-      "home": "Everton",
-      "away": "Manchester United",
-      "time": "16:00",
-      "date": "06.09.2026",
-      "odds": "MS1: 3.75 | X: 3.80 | MS2: 1.98"
+      "home": "Luton Town Reserves",
+      "away": "Peterborough United U21",
+      "time": "21:00",
+      "date": "07.09.2026",
+      "odds": "MS1: 2.65 | X: 3.90 | MS2: 2.00"
     },
     {
       "league": "İngiltere Premier Lig",
-      "home": "Arsenal",
-      "away": "Chelsea",
-      "time": "18:30",
-      "date": "06.09.2026",
-      "odds": "MS1: 1.71 | X: 3.75 | MS2: 5.00"
+      "home": "Swansea U21",
+      "away": "Huddersfield Town U21",
+      "time": "21:00",
+      "date": "07.09.2026",
+      "odds": "MS1: 1.79 | X: 4.00 | MS2: 3.10"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Plymouth Argyle U21",
+      "away": "Cardiff City U21",
+      "time": "21:00",
+      "date": "07.09.2026",
+      "odds": "MS1: 3.00 | X: 3.85 | MS2: 1.87"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Reading U21",
+      "away": "Bristol City U21",
+      "time": "21:00",
+      "date": "07.09.2026",
+      "odds": "MS1: 1.92 | X: 3.40 | MS2: 3.10"
     },
     {
       "league": "İngiltere Premier Lig",
