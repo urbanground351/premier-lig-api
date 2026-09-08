@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-08T00:18:08.951344",
+  "last_updated": "2026-09-08T12:15:30.623140",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Fleetwood Town U21",
+      "away": "Burnley U21",
+      "time": "21:00",
+      "date": "08.09.2026",
+      "odds": "MS1: 2.90 | X: 3.70 | MS2: 1.93"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Hull City U21",
+      "away": "Brentford U21",
+      "time": "21:00",
+      "date": "08.09.2026",
+      "odds": "MS1: 3.30 | X: 4.80 | MS2: 1.62"
+    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Bournemouth",
@@ -24,7 +40,7 @@
       "away": "Hull City",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 1.22 | X: 6.75 | MS2: 12.50"
+      "odds": "MS1: 1.22 | X: 6.75 | MS2: 12.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -32,7 +48,7 @@
       "away": "Nottingham Forest",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 2.15 | X: 3.50 | MS2: 3.35"
+      "odds": "MS1: 2.14 | X: 3.55 | MS2: 3.35"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -64,7 +80,7 @@
       "away": "Brighton",
       "time": "16:00",
       "date": "13.09.2026",
-      "odds": "MS1: 4.20 | X: 3.75 | MS2: 1.84"
+      "odds": "MS1: 4.10 | X: 3.80 | MS2: 1.84"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -112,7 +128,7 @@
       "away": "Arsenal",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 4.35 | X: 3.80 | MS2: 1.76"
+      "odds": "MS1: 4.20 | X: 3.75 | MS2: 1.79"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -120,7 +136,7 @@
       "away": "Hull City",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 1.47 | X: 4.60 | MS2: 6.00"
+      "odds": "MS1: 1.46 | X: 4.60 | MS2: 6.10"
     },
     {
       "league": "İngiltere Premier Lig",
