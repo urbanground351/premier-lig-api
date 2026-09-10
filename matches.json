@@ -1,14 +1,30 @@
 {
-  "last_updated": "2026-09-10T00:15:30.529817",
+  "last_updated": "2026-09-10T12:14:41.009281",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Lancaster",
+      "away": "Curzon Ashton",
+      "time": "17:00",
+      "date": "12.09.2026",
+      "odds": "MS1: 2.90 | X: 3.10 | MS2: 2.10"
+    },
     {
       "league": "İngiltere Premier Lig",
       "home": "FC United of Manchester",
       "away": "Warrington Town FC",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 2.35 | X: 3.25 | MS2: 2.48"
+      "odds": "MS1: 2.75 | X: 3.30 | MS2: 2.12"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Guiseley",
+      "away": "Quorn FC",
+      "time": "17:00",
+      "date": "12.09.2026",
+      "odds": "MS1: 1.77 | X: 3.25 | MS2: 3.75"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -16,7 +32,7 @@
       "away": "Whitby Town",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 1.81 | X: 3.25 | MS2: 3.65"
+      "odds": "MS1: 1.90 | X: 3.20 | MS2: 3.35"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -56,7 +72,7 @@
       "away": "Redditch",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 1.38 | X: 4.50 | MS2: 6.00"
+      "odds": "MS1: 1.29 | X: 4.80 | MS2: 7.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -64,7 +80,7 @@
       "away": "Brentford",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 2.48 | X: 3.55 | MS2: 2.63"
+      "odds": "MS1: 2.43 | X: 3.55 | MS2: 2.70"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -72,7 +88,7 @@
       "away": "Ipswich Town",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 1.87 | X: 3.80 | MS2: 3.90"
+      "odds": "MS1: 1.86 | X: 3.80 | MS2: 4.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -80,7 +96,7 @@
       "away": "Hull City",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 1.21 | X: 7.00 | MS2: 12.50"
+      "odds": "MS1: 1.22 | X: 6.75 | MS2: 12.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -88,7 +104,7 @@
       "away": "Nottingham Forest",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 2.14 | X: 3.55 | MS2: 3.35"
+      "odds": "MS1: 2.23 | X: 3.50 | MS2: 3.20"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -96,7 +112,7 @@
       "away": "Fulham",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 1.45 | X: 5.00 | MS2: 6.25"
+      "odds": "MS1: 1.46 | X: 4.90 | MS2: 6.10"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -104,7 +120,7 @@
       "away": "Leek Town",
       "time": "17:00",
       "date": "12.09.2026",
-      "odds": "MS1: 1.83 | X: 3.20 | MS2: 3.60"
+      "odds": "MS1: 1.63 | X: 3.45 | MS2: 4.20"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -120,7 +136,7 @@
       "away": "Everton",
       "time": "19:30",
       "date": "12.09.2026",
-      "odds": "MS1: 2.00 | X: 3.50 | MS2: 3.75"
+      "odds": "MS1: 2.02 | X: 3.50 | MS2: 3.70"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -128,7 +144,7 @@
       "away": "Arsenal",
       "time": "22:00",
       "date": "12.09.2026",
-      "odds": "MS1: 7.00 | X: 4.25 | MS2: 1.49"
+      "odds": "MS1: 7.00 | X: 4.20 | MS2: 1.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -136,7 +152,7 @@
       "away": "Brighton",
       "time": "16:00",
       "date": "13.09.2026",
-      "odds": "MS1: 4.10 | X: 3.80 | MS2: 1.84"
+      "odds": "MS1: 4.10 | X: 3.65 | MS2: 1.87"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -144,7 +160,7 @@
       "away": "Manchester City",
       "time": "18:30",
       "date": "13.09.2026",
-      "odds": "MS1: 3.00 | X: 4.00 | MS2: 2.14"
+      "odds": "MS1: 3.10 | X: 4.00 | MS2: 2.10"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -160,7 +176,7 @@
       "away": "Chelsea",
       "time": "22:00",
       "date": "18.09.2026",
-      "odds": "MS1: 2.63 | X: 3.70 | MS2: 2.43"
+      "odds": "MS1: 2.70 | X: 3.80 | MS2: 2.48"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -168,7 +184,7 @@
       "away": "Aston Villa",
       "time": "14:30",
       "date": "19.09.2026",
-      "odds": "MS1: 1.97 | X: 3.65 | MS2: 3.55"
+      "odds": "MS1: 1.98 | X: 3.85 | MS2: 3.65"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -176,7 +192,7 @@
       "away": "Ipswich Town",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 1.70 | X: 3.90 | MS2: 4.60"
+      "odds": "MS1: 1.74 | X: 4.00 | MS2: 4.75"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -184,7 +200,7 @@
       "away": "Arsenal",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 4.20 | X: 3.75 | MS2: 1.79"
+      "odds": "MS1: 4.40 | X: 3.90 | MS2: 1.80"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -192,7 +208,7 @@
       "away": "Hull City",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 1.46 | X: 4.60 | MS2: 6.10"
+      "odds": "MS1: 1.50 | X: 4.75 | MS2: 6.40"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -200,7 +216,7 @@
       "away": "Coventry City",
       "time": "19:30",
       "date": "19.09.2026",
-      "odds": "MS1: 1.76 | X: 3.80 | MS2: 4.30"
+      "odds": "MS1: 1.78 | X: 3.95 | MS2: 4.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -208,7 +224,7 @@
       "away": "Liverpool",
       "time": "16:00",
       "date": "20.09.2026",
-      "odds": "MS1: 3.10 | X: 3.90 | MS2: 2.07"
+      "odds": "MS1: 3.20 | X: 4.10 | MS2: 2.08"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -216,7 +232,7 @@
       "away": "Crystal Palace",
       "time": "16:00",
       "date": "20.09.2026",
-      "odds": "MS1: 2.00 | X: 3.55 | MS2: 3.55"
+      "odds": "MS1: 2.02 | X: 3.65 | MS2: 3.70"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -224,7 +240,7 @@
       "away": "Sunderland",
       "time": "16:00",
       "date": "20.09.2026",
-      "odds": "MS1: 1.28 | X: 5.60 | MS2: 10.00"
+      "odds": "MS1: 1.30 | X: 5.80 | MS2: 10.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -232,7 +248,7 @@
       "away": "Manchester United",
       "time": "18:30",
       "date": "20.09.2026",
-      "odds": "MS1: 3.40 | X: 3.75 | MS2: 1.98"
+      "odds": "MS1: 3.60 | X: 3.90 | MS2: 1.98"
     }
   ]
 }
