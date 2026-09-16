@@ -1,70 +1,14 @@
 {
-  "last_updated": "2026-09-15T12:14:06.469576",
+  "last_updated": "2026-09-16T00:14:37.726903",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Gillingham U21",
-      "away": "Birmingham U21",
-      "time": "21:00",
-      "date": "15.09.2026",
-      "odds": "MS1: 4.80 | X: 4.50 | MS2: 1.44"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Bromley U21",
-      "away": "Ipswich Town U21",
-      "time": "21:00",
-      "date": "15.09.2026",
-      "odds": "MS1: 3.30 | X: 3.55 | MS2: 1.82"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Berkhamsted FC",
-      "away": "Uxbridge FC",
-      "time": "21:45",
-      "date": "15.09.2026",
-      "odds": "MS1: 2.38 | X: 3.30 | MS2: 2.43"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Brentwood Town",
-      "away": "Stanway Rovers",
-      "time": "21:45",
-      "date": "15.09.2026",
-      "odds": "MS1: 1.49 | X: 3.95 | MS2: 4.75"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Enfield Town",
-      "away": "Dartford",
-      "time": "21:45",
-      "date": "15.09.2026",
-      "odds": "MS1: 2.30 | X: 3.40 | MS2: 2.50"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Leatherhead",
-      "away": "Whyteleafe",
-      "time": "21:45",
-      "date": "15.09.2026",
-      "odds": "MS1: 1.60 | X: 4.10 | MS2: 3.75"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Cray Wanderers",
-      "away": "St Albans City",
-      "time": "21:45",
-      "date": "15.09.2026",
-      "odds": "MS1: 2.65 | X: 3.40 | MS2: 2.14"
-    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Brentford",
       "away": "Chelsea",
       "time": "22:00",
       "date": "18.09.2026",
-      "odds": "MS1: 2.80 | X: 3.90 | MS2: 2.32"
+      "odds": "MS1: 2.95 | X: 3.90 | MS2: 2.20"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -88,7 +32,7 @@
       "away": "Arsenal",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 5.00 | X: 3.90 | MS2: 1.68"
+      "odds": "MS1: 4.90 | X: 3.90 | MS2: 1.68"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -104,7 +48,7 @@
       "away": "Coventry City",
       "time": "19:30",
       "date": "19.09.2026",
-      "odds": "MS1: 1.68 | X: 4.00 | MS2: 4.90"
+      "odds": "MS1: 1.63 | X: 4.10 | MS2: 5.20"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -128,7 +72,7 @@
       "away": "Sunderland",
       "time": "16:00",
       "date": "20.09.2026",
-      "odds": "MS1: 1.29 | X: 5.80 | MS2: 10.00"
+      "odds": "MS1: 1.29 | X: 5.75 | MS2: 10.00"
     },
     {
       "league": "İngiltere Premier Lig",
