@@ -1,14 +1,78 @@
 {
-  "last_updated": "2026-09-17T12:14:40.082791",
+  "last_updated": "2026-09-18T00:15:13.570648",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Birmingham U21",
+      "away": "Arsenal U21",
+      "time": "15:00",
+      "date": "18.09.2026",
+      "odds": "MS1: 4.80 | X: 4.10 | MS2: 1.48"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Leicester City U21",
+      "away": "West Ham U21",
+      "time": "21:00",
+      "date": "18.09.2026",
+      "odds": "MS1: 2.63 | X: 3.55 | MS2: 2.12"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Aston Villa U21",
+      "away": "Middlesbrough U21",
+      "time": "21:00",
+      "date": "18.09.2026",
+      "odds": "MS1: 2.02 | X: 3.45 | MS2: 2.85"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Burnley U21",
+      "away": "Derby County U21",
+      "time": "21:00",
+      "date": "18.09.2026",
+      "odds": "MS1: 2.08 | X: 3.45 | MS2: 2.75"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Manchester United U21",
+      "away": "Brentford U21",
+      "time": "21:00",
+      "date": "18.09.2026",
+      "odds": "MS1: 1.50 | X: 4.20 | MS2: 4.30"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Sunderland U21",
+      "away": "Norwich City U21",
+      "time": "21:00",
+      "date": "18.09.2026",
+      "odds": "MS1: 1.92 | X: 3.85 | MS2: 2.88"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "West Bromwich Albion U21",
+      "away": "Nottingham Forest U21",
+      "time": "21:00",
+      "date": "18.09.2026",
+      "odds": "MS1: 2.80 | X: 3.35 | MS2: 2.08"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Wolverhampton Wanderers U21",
+      "away": "Southampton U21",
+      "time": "21:00",
+      "date": "18.09.2026",
+      "odds": "MS1: 3.55 | X: 3.70 | MS2: 1.72"
+    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Brentford",
       "away": "Chelsea",
       "time": "22:00",
       "date": "18.09.2026",
-      "odds": "MS1: 2.80 | X: 3.75 | MS2: 2.35"
+      "odds": "MS1: 2.75 | X: 3.80 | MS2: 2.38"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -16,7 +80,7 @@
       "away": "Aston Villa",
       "time": "14:30",
       "date": "19.09.2026",
-      "odds": "MS1: 2.00 | X: 3.60 | MS2: 3.65"
+      "odds": "MS1: 2.02 | X: 3.60 | MS2: 3.65"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -24,7 +88,7 @@
       "away": "Ipswich Town",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 1.78 | X: 3.80 | MS2: 4.40"
+      "odds": "MS1: 1.77 | X: 3.85 | MS2: 4.40"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -32,7 +96,7 @@
       "away": "Arsenal",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 4.90 | X: 3.90 | MS2: 1.70"
+      "odds": "MS1: 5.25 | X: 4.00 | MS2: 1.64"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -48,7 +112,7 @@
       "away": "Coventry City",
       "time": "19:30",
       "date": "19.09.2026",
-      "odds": "MS1: 1.63 | X: 4.10 | MS2: 5.10"
+      "odds": "MS1: 1.60 | X: 4.20 | MS2: 5.40"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -64,7 +128,7 @@
       "away": "Crystal Palace",
       "time": "16:00",
       "date": "20.09.2026",
-      "odds": "MS1: 1.79 | X: 3.80 | MS2: 4.40"
+      "odds": "MS1: 1.78 | X: 3.85 | MS2: 4.40"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -72,7 +136,7 @@
       "away": "Sunderland",
       "time": "16:00",
       "date": "20.09.2026",
-      "odds": "MS1: 1.28 | X: 6.00 | MS2: 10.00"
+      "odds": "MS1: 1.26 | X: 6.25 | MS2: 10.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -80,7 +144,7 @@
       "away": "Manchester United",
       "time": "18:30",
       "date": "20.09.2026",
-      "odds": "MS1: 3.50 | X: 3.80 | MS2: 2.00"
+      "odds": "MS1: 3.55 | X: 3.85 | MS2: 1.97"
     },
     {
       "league": "İngiltere Premier Lig",
