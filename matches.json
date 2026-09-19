@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T00:15:02.574939",
+  "last_updated": "2026-09-19T12:13:31.113784",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
     {
@@ -8,23 +8,31 @@
       "away": "Blackburn Rovers U21",
       "time": "14:00",
       "date": "19.09.2026",
-      "odds": "MS1: 1.37 | X: 4.70 | MS2: 5.50"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Reading U21",
-      "away": "Everton U21",
-      "time": "14:00",
-      "date": "19.09.2026",
-      "odds": "MS1: 2.43 | X: 3.35 | MS2: 2.38"
+      "odds": "MS1: 1.74 | X: 2.88 | MS2: 4.90"
     },
     {
       "league": "İngiltere Premier Lig",
       "home": "Liverpool U21",
       "away": "Brighton U21",
-      "time": "14:00",
+      "time": "14:01",
       "date": "19.09.2026",
-      "odds": "MS1: 2.00 | X: 3.45 | MS2: 2.85"
+      "odds": "MS1: 0.00 | X: 18.00 | MS2: 46.00"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Reading U21",
+      "away": "Everton U21",
+      "time": "14:02",
+      "date": "19.09.2026",
+      "odds": "MS1: 2.45 | X: 2.45 | MS2: 3.15"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Leeds United U21",
+      "away": "Newcastle United FC U21",
+      "time": "14:29",
+      "date": "19.09.2026",
+      "odds": "MS1: 1.25 | X: 4.75 | MS2: 9.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -32,15 +40,7 @@
       "away": "Aston Villa",
       "time": "14:30",
       "date": "19.09.2026",
-      "odds": "MS1: 2.00 | X: 3.55 | MS2: 3.70"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Leeds United U21",
-      "away": "Newcastle United FC U21",
-      "time": "14:30",
-      "date": "19.09.2026",
-      "odds": "MS1: 2.16 | X: 3.65 | MS2: 2.55"
+      "odds": "MS1: 2.04 | X: 3.00 | MS2: 4.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -48,7 +48,7 @@
       "away": "Manchester City U21",
       "time": "15:00",
       "date": "19.09.2026",
-      "odds": "MS1: 3.25 | X: 3.85 | MS2: 1.77"
+      "odds": "MS1: 2.65 | X: 3.60 | MS2: 2.10"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -56,7 +56,7 @@
       "away": "Ipswich Town",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 1.78 | X: 3.85 | MS2: 4.40"
+      "odds": "MS1: 1.81 | X: 3.70 | MS2: 4.40"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -64,7 +64,7 @@
       "away": "Arsenal",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 5.10 | X: 3.95 | MS2: 1.66"
+      "odds": "MS1: 5.30 | X: 3.75 | MS2: 1.68"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -72,7 +72,7 @@
       "away": "Hull City",
       "time": "17:00",
       "date": "19.09.2026",
-      "odds": "MS1: 1.60 | X: 4.25 | MS2: 5.20"
+      "odds": "MS1: 1.60 | X: 4.25 | MS2: 5.25"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -88,7 +88,7 @@
       "away": "Coventry City",
       "time": "19:30",
       "date": "19.09.2026",
-      "odds": "MS1: 1.57 | X: 4.10 | MS2: 5.80"
+      "odds": "MS1: 1.62 | X: 3.95 | MS2: 5.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -104,7 +104,7 @@
       "away": "Crystal Palace",
       "time": "16:00",
       "date": "20.09.2026",
-      "odds": "MS1: 1.74 | X: 3.90 | MS2: 4.60"
+      "odds": "MS1: 1.75 | X: 3.90 | MS2: 4.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -120,7 +120,7 @@
       "away": "Manchester United",
       "time": "18:30",
       "date": "20.09.2026",
-      "odds": "MS1: 3.55 | X: 3.85 | MS2: 1.97"
+      "odds": "MS1: 3.55 | X: 3.80 | MS2: 1.97"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -160,7 +160,7 @@
       "away": "Brighton",
       "time": "17:00",
       "date": "10.10.2026",
-      "odds": "MS1: 2.80 | X: 3.50 | MS2: 2.55"
+      "odds": "MS1: 2.80 | X: 3.45 | MS2: 2.55"
     },
     {
       "league": "İngiltere Premier Lig",
