@@ -1,22 +1,78 @@
 {
-  "last_updated": "2026-09-21T12:13:39.929419",
+  "last_updated": "2026-09-22T00:15:04.825226",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
     {
       "league": "İngiltere Premier Lig",
-      "home": "Bournemouth U21",
-      "away": "Stoke City U21",
-      "time": "21:00",
-      "date": "21.09.2026",
-      "odds": "MS1: 1.61 | X: 4.25 | MS2: 3.60"
+      "home": "Brentwood Town",
+      "away": "Maldon & Tiptree",
+      "time": "21:45",
+      "date": "22.09.2026",
+      "odds": "MS1: 1.64 | X: 4.10 | MS2: 3.50"
     },
     {
       "league": "İngiltere Premier Lig",
-      "home": "Redditch",
-      "away": "Racing Club Warwick",
+      "home": "Chichester City FC",
+      "away": "Chertsey Town",
       "time": "21:45",
-      "date": "21.09.2026",
-      "odds": "MS1: 1.84 | X: 3.50 | MS2: 3.50"
+      "date": "22.09.2026",
+      "odds": "MS1: 2.65 | X: 3.50 | MS2: 2.10"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Hanwell Town",
+      "away": "Uxbridge FC",
+      "time": "21:45",
+      "date": "22.09.2026",
+      "odds": "MS1: 2.45 | X: 3.05 | MS2: 2.50"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Chippenham Town",
+      "away": "Sholing FC",
+      "time": "21:45",
+      "date": "22.09.2026",
+      "odds": "MS1: 2.38 | X: 3.15 | MS2: 2.50"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Berkhamsted FC",
+      "away": "Hanworth Villa",
+      "time": "21:45",
+      "date": "22.09.2026",
+      "odds": "MS1: 2.35 | X: 3.15 | MS2: 2.55"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Yate Town",
+      "away": "Evesham United",
+      "time": "21:45",
+      "date": "22.09.2026",
+      "odds": "MS1: 1.93 | X: 3.30 | MS2: 3.20"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Worcester City",
+      "away": "Banbury United FC",
+      "time": "21:45",
+      "date": "22.09.2026",
+      "odds": "MS1: 2.33 | X: 2.80 | MS2: 3.00"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Plymouth Parkway F.C",
+      "away": "Frome Town",
+      "time": "21:45",
+      "date": "22.09.2026",
+      "odds": "MS1: 1.97 | X: 3.45 | MS2: 2.88"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Rushall Olympic FC",
+      "away": "Kettering Town",
+      "time": "21:45",
+      "date": "22.09.2026",
+      "odds": "MS1: 2.50 | X: 3.40 | MS2: 2.32"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -25,6 +81,30 @@
       "time": "21:45",
       "date": "22.09.2026",
       "odds": "MS1: 2.30 | X: 3.35 | MS2: 2.60"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Stourbridge",
+      "away": "Real Bedford",
+      "time": "21:45",
+      "date": "22.09.2026",
+      "odds": "MS1: 3.75 | X: 3.65 | MS2: 1.73"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Stratford Town",
+      "away": "Bromsgrove Sporting",
+      "time": "21:45",
+      "date": "22.09.2026",
+      "odds": "MS1: 3.30 | X: 3.25 | MS2: 1.97"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Anstey Nomads",
+      "away": "Alvechurch FC",
+      "time": "21:45",
+      "date": "22.09.2026",
+      "odds": "MS1: 2.02 | X: 3.15 | MS2: 3.25"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -104,7 +184,7 @@
       "away": "Manchester City",
       "time": "18:30",
       "date": "11.10.2026",
-      "odds": "MS1: 2.95 | X: 3.80 | MS2: 2.28"
+      "odds": "MS1: 2.85 | X: 3.80 | MS2: 2.35"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -168,7 +248,7 @@
       "away": "Crystal Palace",
       "time": "16:00",
       "date": "18.10.2026",
-      "odds": "MS1: 1.63 | X: 4.40 | MS2: 5.10"
+      "odds": "MS1: 1.58 | X: 4.50 | MS2: 5.40"
     },
     {
       "league": "İngiltere Premier Lig",
