@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T00:17:19.482180",
+  "last_updated": "2026-09-28T12:14:55.689049",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
     {
@@ -9,22 +9,6 @@
       "time": "21:45",
       "date": "29.09.2026",
       "odds": "MS1: 2.38 | X: 3.20 | MS2: 2.48"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Whitby Town",
-      "away": "Lancaster",
-      "time": "21:45",
-      "date": "29.09.2026",
-      "odds": "MS1: 2.60 | X: 3.05 | MS2: 2.33"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Ilkeston FC",
-      "away": "Warrington Rylands 1906 FC",
-      "time": "21:45",
-      "date": "29.09.2026",
-      "odds": "MS1: 2.80 | X: 3.20 | MS2: 2.14"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -41,6 +25,22 @@
       "time": "21:45",
       "date": "29.09.2026",
       "odds": "MS1: 1.38 | X: 4.40 | MS2: 6.10"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Whitby Town",
+      "away": "Lancaster",
+      "time": "21:45",
+      "date": "29.09.2026",
+      "odds": "MS1: 2.60 | X: 3.05 | MS2: 2.33"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Ilkeston FC",
+      "away": "Warrington Rylands 1906 FC",
+      "time": "21:45",
+      "date": "29.09.2026",
+      "odds": "MS1: 2.80 | X: 3.20 | MS2: 2.14"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -80,7 +80,7 @@
       "away": "Bournemouth",
       "time": "17:00",
       "date": "10.10.2026",
-      "odds": "MS1: 1.79 | X: 4.20 | MS2: 4.10"
+      "odds": "MS1: 1.75 | X: 4.30 | MS2: 4.30"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -104,7 +104,7 @@
       "away": "Brighton",
       "time": "17:00",
       "date": "10.10.2026",
-      "odds": "MS1: 2.85 | X: 3.50 | MS2: 2.50"
+      "odds": "MS1: 2.90 | X: 3.50 | MS2: 2.43"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -112,7 +112,7 @@
       "away": "Tottenham",
       "time": "19:30",
       "date": "10.10.2026",
-      "odds": "MS1: 1.72 | X: 4.20 | MS2: 4.50"
+      "odds": "MS1: 1.73 | X: 4.20 | MS2: 4.50"
     },
     {
       "league": "İngiltere Premier Lig",
