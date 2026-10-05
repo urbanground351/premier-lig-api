@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-10-04T16:31:07.995870",
+  "last_updated": "2026-10-05T04:22:06.128289",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Carshalton Athletic",
+      "away": "Eastbourne Borough",
+      "time": "21:45",
+      "date": "05.10.2026",
+      "odds": "MS1: 2.65 | X: 3.50 | MS2: 2.12"
+    },
     {
       "league": "İngiltere Premier Lig",
       "home": "St Albans City",
@@ -100,6 +108,14 @@
     },
     {
       "league": "İngiltere Premier Lig",
+      "home": "Avro FC",
+      "away": "Lancaster",
+      "time": "21:45",
+      "date": "07.10.2026",
+      "odds": "MS1: 1.79 | X: 3.45 | MS2: 3.45"
+    },
+    {
+      "league": "İngiltere Premier Lig",
       "home": "Arsenal",
       "away": "Leeds United",
       "time": "14:30",
@@ -168,7 +184,7 @@
       "away": "Manchester City",
       "time": "18:30",
       "date": "11.10.2026",
-      "odds": "MS1: 2.63 | X: 3.85 | MS2: 2.50"
+      "odds": "MS1: 2.65 | X: 3.80 | MS2: 2.50"
     },
     {
       "league": "İngiltere Premier Lig",
