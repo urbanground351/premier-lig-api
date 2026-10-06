@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-10-05T20:16:43.601588",
+  "last_updated": "2026-10-06T05:09:27.131522",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Carshalton Athletic",
-      "away": "Eastbourne Borough",
-      "time": "21:47",
-      "date": "05.10.2026",
-      "odds": "Oran Yok"
-    },
     {
       "league": "İngiltere Premier Lig",
       "home": "St Albans City",
@@ -17,6 +9,22 @@
       "time": "21:45",
       "date": "06.10.2026",
       "odds": "MS1: 1.78 | X: 3.40 | MS2: 3.55"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Stanway Rovers",
+      "away": "Enfield Town",
+      "time": "21:45",
+      "date": "06.10.2026",
+      "odds": "MS1: 4.25 | X: 4.20 | MS2: 1.52"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Dartford",
+      "away": "Ramsgate",
+      "time": "21:45",
+      "date": "06.10.2026",
+      "odds": "MS1: 1.76 | X: 3.55 | MS2: 3.40"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -33,6 +41,14 @@
       "time": "21:45",
       "date": "06.10.2026",
       "odds": "MS1: 2.40 | X: 3.20 | MS2: 2.55"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Cheshunt",
+      "away": "Aveley",
+      "time": "21:45",
+      "date": "06.10.2026",
+      "odds": "MS1: 2.95 | X: 3.45 | MS2: 1.95"
     },
     {
       "league": "İngiltere Premier Lig",
