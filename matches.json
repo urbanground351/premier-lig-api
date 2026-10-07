@@ -1,135 +1,7 @@
 {
-  "last_updated": "2026-10-06T18:00:05.449433",
+  "last_updated": "2026-10-07T04:36:30.138405",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "St Albans City",
-      "away": "Brentwood Town",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 1.78 | X: 3.40 | MS2: 3.55"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Stanway Rovers",
-      "away": "Enfield Town",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 4.25 | X: 4.20 | MS2: 1.52"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Dartford",
-      "away": "Ramsgate",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 1.76 | X: 3.55 | MS2: 3.40"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Dulwich Hamlet",
-      "away": "Cray Wanderers",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 2.20 | X: 3.40 | MS2: 2.55"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Leamington FC",
-      "away": "Halesowen Town",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 2.40 | X: 3.20 | MS2: 2.55"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Cheshunt",
-      "away": "Aveley",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 2.95 | X: 3.45 | MS2: 1.95"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Quorn FC",
-      "away": "Ashton United",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 2.75 | X: 3.25 | MS2: 2.16"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Whitby Town",
-      "away": "Gainsborough Trinity",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 3.75 | X: 3.30 | MS2: 1.76"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Alfreton Town",
-      "away": "FC United of Manchester",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 1.90 | X: 3.30 | MS2: 3.25"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Stockton Town FC",
-      "away": "Bury",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 3.80 | X: 3.65 | MS2: 1.66"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Leek Town",
-      "away": "Warrington Rylands 1906 FC",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 2.70 | X: 3.15 | MS2: 2.23"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Warrington Town FC",
-      "away": "Workington",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 2.18 | X: 3.30 | MS2: 2.65"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Ilkeston FC",
-      "away": "Guiseley",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 3.40 | X: 3.25 | MS2: 1.85"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "AFC Emley",
-      "away": "Bamber Bridge",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 2.10 | X: 3.45 | MS2: 2.70"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Curzon Ashton",
-      "away": "Redcar Athletic",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 2.55 | X: 3.25 | MS2: 2.28"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Cleethorpes Town",
-      "away": "Hyde FC",
-      "time": "21:45",
-      "date": "06.10.2026",
-      "odds": "MS1: 1.61 | X: 3.50 | MS2: 4.30"
-    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Avro FC",
@@ -168,7 +40,7 @@
       "away": "Fulham",
       "time": "17:00",
       "date": "10.10.2026",
-      "odds": "MS1: 2.63 | X: 3.55 | MS2: 2.55"
+      "odds": "MS1: 2.70 | X: 3.55 | MS2: 2.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -176,7 +48,7 @@
       "away": "Brighton",
       "time": "17:00",
       "date": "10.10.2026",
-      "odds": "MS1: 2.85 | X: 3.60 | MS2: 2.38"
+      "odds": "MS1: 2.95 | X: 3.55 | MS2: 2.32"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -216,7 +88,7 @@
       "away": "Newcastle United",
       "time": "22:00",
       "date": "12.10.2026",
-      "odds": "MS1: 3.20 | X: 3.75 | MS2: 2.14"
+      "odds": "MS1: 3.20 | X: 3.70 | MS2: 2.14"
     },
     {
       "league": "İngiltere Premier Lig",
