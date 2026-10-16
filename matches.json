@@ -1,14 +1,46 @@
 {
-  "last_updated": "2026-10-15T16:24:57.111116",
+  "last_updated": "2026-10-16T03:23:34.033840",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Everton U21",
+      "away": "Middlesbrough U21",
+      "time": "21:00",
+      "date": "16.10.2026",
+      "odds": "MS1: 2.20 | X: 3.55 | MS2: 2.50"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Norwich City U21",
+      "away": "West Ham U21",
+      "time": "21:00",
+      "date": "16.10.2026",
+      "odds": "MS1: 2.55 | X: 3.55 | MS2: 2.17"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Stoke City U21",
+      "away": "Chelsea U21",
+      "time": "21:00",
+      "date": "16.10.2026",
+      "odds": "MS1: 5.20 | X: 4.40 | MS2: 1.41"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Nottingham Forest U21",
+      "away": "Manchester United U21",
+      "time": "21:00",
+      "date": "16.10.2026",
+      "odds": "MS1: 3.00 | X: 3.50 | MS2: 1.97"
+    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Everton",
       "away": "Chelsea",
       "time": "14:30",
       "date": "17.10.2026",
-      "odds": "MS1: 3.15 | X: 3.70 | MS2: 2.17"
+      "odds": "MS1: 3.15 | X: 3.65 | MS2: 2.18"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -24,7 +56,7 @@
       "away": "Ipswich Town",
       "time": "17:00",
       "date": "17.10.2026",
-      "odds": "MS1: 1.26 | X: 6.40 | MS2: 10.00"
+      "odds": "MS1: 1.23 | X: 6.75 | MS2: 11.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -64,7 +96,7 @@
       "away": "Manchester United",
       "time": "16:00",
       "date": "18.10.2026",
-      "odds": "MS1: 2.35 | X: 3.70 | MS2: 2.80"
+      "odds": "MS1: 2.35 | X: 3.65 | MS2: 2.85"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -72,7 +104,7 @@
       "away": "Arsenal",
       "time": "18:30",
       "date": "18.10.2026",
-      "odds": "MS1: 5.80 | X: 4.00 | MS2: 1.60"
+      "odds": "MS1: 5.80 | X: 3.95 | MS2: 1.60"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -152,7 +184,7 @@
       "away": "Brighton",
       "time": "17:00",
       "date": "25.10.2026",
-      "odds": "MS1: 2.02 | X: 4.00 | MS2: 3.45"
+      "odds": "MS1: 2.04 | X: 4.00 | MS2: 3.35"
     },
     {
       "league": "İngiltere Premier Lig",
