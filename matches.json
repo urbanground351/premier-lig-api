@@ -1,38 +1,14 @@
 {
-  "last_updated": "2026-10-18T03:17:43.861763",
+  "last_updated": "2026-10-18T15:27:29.057870",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
     {
       "league": "İngiltere Premier Lig",
-      "home": "Bournemouth",
-      "away": "Sunderland",
-      "time": "16:00",
-      "date": "18.10.2026",
-      "odds": "MS1: 2.08 | X: 3.55 | MS2: 3.45"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Brighton",
-      "away": "Crystal Palace",
-      "time": "16:00",
-      "date": "18.10.2026",
-      "odds": "MS1: 1.47 | X: 4.75 | MS2: 6.25"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Leeds United",
-      "away": "Manchester United",
-      "time": "16:00",
-      "date": "18.10.2026",
-      "odds": "MS1: 2.32 | X: 3.55 | MS2: 2.95"
-    },
-    {
-      "league": "İngiltere Premier Lig",
       "home": "Nottingham Forest",
       "away": "Arsenal",
-      "time": "18:30",
+      "time": "18:35",
       "date": "18.10.2026",
-      "odds": "MS1: 6.10 | X: 3.95 | MS2: 1.58"
+      "odds": "MS1: 7.00 | X: 4.20 | MS2: 1.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -48,7 +24,7 @@
       "away": "Coventry City",
       "time": "22:00",
       "date": "19.10.2026",
-      "odds": "MS1: 1.47 | X: 4.60 | MS2: 6.50"
+      "odds": "MS1: 1.46 | X: 4.70 | MS2: 6.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -128,7 +104,7 @@
       "away": "Leiston FC",
       "time": "21:45",
       "date": "20.10.2026",
-      "odds": "MS1: 1.94 | X: 3.40 | MS2: 3.20"
+      "odds": "MS1: 1.82 | X: 3.50 | MS2: 3.55"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -160,7 +136,7 @@
       "away": "Manchester City",
       "time": "14:30",
       "date": "24.10.2026",
-      "odds": "MS1: 4.70 | X: 4.30 | MS2: 1.68"
+      "odds": "MS1: 4.70 | X: 4.25 | MS2: 1.70"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -176,7 +152,7 @@
       "away": "Fulham",
       "time": "17:00",
       "date": "24.10.2026",
-      "odds": "MS1: 2.95 | X: 3.60 | MS2: 2.40"
+      "odds": "MS1: 2.95 | X: 3.65 | MS2: 2.35"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -184,7 +160,7 @@
       "away": "Tottenham",
       "time": "19:30",
       "date": "24.10.2026",
-      "odds": "MS1: 1.88 | X: 4.00 | MS2: 3.90"
+      "odds": "MS1: 1.77 | X: 4.20 | MS2: 4.25"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -200,7 +176,7 @@
       "away": "Newcastle United",
       "time": "17:00",
       "date": "25.10.2026",
-      "odds": "MS1: 2.65 | X: 3.60 | MS2: 2.60"
+      "odds": "MS1: 2.75 | X: 3.60 | MS2: 2.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -224,7 +200,7 @@
       "away": "Leeds United",
       "time": "19:30",
       "date": "25.10.2026",
-      "odds": "MS1: 2.75 | X: 3.30 | MS2: 2.70"
+      "odds": "MS1: 2.80 | X: 3.30 | MS2: 2.63"
     }
   ]
 }
