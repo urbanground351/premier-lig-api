@@ -1,46 +1,14 @@
 {
-  "last_updated": "2026-10-23T16:33:48.268799",
+  "last_updated": "2026-10-24T03:31:01.151447",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
     {
       "league": "İngiltere Premier Lig",
-      "home": "Everton U21",
-      "away": "Wolverhampton Wanderers U21",
-      "time": "21:00",
-      "date": "23.10.2026",
-      "odds": "MS1: 1.91 | X: 3.55 | MS2: 3.10"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Fulham U21",
-      "away": "Brighton U21",
-      "time": "21:00",
-      "date": "23.10.2026",
-      "odds": "MS1: 2.45 | X: 3.40 | MS2: 2.33"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Manchester City U21",
-      "away": "Stoke City U21",
-      "time": "21:00",
-      "date": "23.10.2026",
-      "odds": "MS1: 1.17 | X: 6.40 | MS2: 9.00"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "West Ham U21",
-      "away": "Burnley U21",
-      "time": "21:00",
-      "date": "23.10.2026",
-      "odds": "MS1: 1.58 | X: 3.95 | MS2: 4.10"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Ipswich Town",
-      "away": "Nottingham Forest",
-      "time": "22:00",
-      "date": "23.10.2026",
-      "odds": "MS1: 3.15 | X: 3.40 | MS2: 2.28"
+      "home": "Reading U21",
+      "away": "Nottingham Forest U21",
+      "time": "14:00",
+      "date": "24.10.2026",
+      "odds": "MS1: 3.00 | X: 3.35 | MS2: 1.97"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -48,7 +16,7 @@
       "away": "Manchester City",
       "time": "14:30",
       "date": "24.10.2026",
-      "odds": "MS1: 4.90 | X: 4.50 | MS2: 1.60"
+      "odds": "MS1: 5.00 | X: 4.60 | MS2: 1.58"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -56,7 +24,7 @@
       "away": "Everton",
       "time": "17:00",
       "date": "24.10.2026",
-      "odds": "MS1: 1.41 | X: 4.60 | MS2: 8.00"
+      "odds": "MS1: 1.44 | X: 4.50 | MS2: 8.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -64,7 +32,7 @@
       "away": "Fulham",
       "time": "17:00",
       "date": "24.10.2026",
-      "odds": "MS1: 3.15 | X: 3.50 | MS2: 2.23"
+      "odds": "MS1: 3.20 | X: 3.45 | MS2: 2.23"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -72,7 +40,7 @@
       "away": "Tottenham",
       "time": "19:30",
       "date": "24.10.2026",
-      "odds": "MS1: 1.70 | X: 4.20 | MS2: 4.50"
+      "odds": "MS1: 1.76 | X: 4.10 | MS2: 4.10"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -80,7 +48,7 @@
       "away": "Bournemouth",
       "time": "17:00",
       "date": "25.10.2026",
-      "odds": "MS1: 2.08 | X: 3.65 | MS2: 3.35"
+      "odds": "MS1: 2.14 | X: 3.60 | MS2: 3.25"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -184,7 +152,7 @@
       "away": "Arsenal",
       "time": "19:30",
       "date": "01.11.2026",
-      "odds": "MS1: 3.30 | X: 3.80 | MS2: 2.14"
+      "odds": "MS1: 3.15 | X: 3.70 | MS2: 2.16"
     },
     {
       "league": "İngiltere Premier Lig",
