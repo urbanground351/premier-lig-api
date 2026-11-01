@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T04:41:03.309553",
+  "last_updated": "2026-11-01T17:41:17.748686",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
     {
@@ -8,7 +8,15 @@
       "away": "Arsenal",
       "time": "19:30",
       "date": "01.11.2026",
-      "odds": "MS1: 2.88 | X: 3.35 | MS2: 2.48"
+      "odds": "MS1: 7.00 | X: 3.45 | MS2: 1.56"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Aveley",
+      "away": "St Albans City",
+      "time": "22:45",
+      "date": "02.11.2026",
+      "odds": "MS1: 2.60 | X: 3.25 | MS2: 2.23"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -32,7 +40,7 @@
       "away": "Avro FC",
       "time": "22:45",
       "date": "03.11.2026",
-      "odds": "MS1: 1.89 | X: 3.40 | MS2: 3.20"
+      "odds": "MS1: 1.80 | X: 3.60 | MS2: 3.30"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -84,11 +92,19 @@
     },
     {
       "league": "İngiltere Premier Lig",
+      "home": "Curzon Ashton",
+      "away": "FC United of Manchester",
+      "time": "22:45",
+      "date": "03.11.2026",
+      "odds": "MS1: 1.75 | X: 3.45 | MS2: 3.55"
+    },
+    {
+      "league": "İngiltere Premier Lig",
       "home": "Plymouth Parkway F.C",
       "away": "Uxbridge FC",
       "time": "22:45",
       "date": "03.11.2026",
-      "odds": "MS1: 1.96 | X: 3.35 | MS2: 3.05"
+      "odds": "MS1: 2.25 | X: 3.20 | MS2: 2.55"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -120,7 +136,7 @@
       "away": "Hull City",
       "time": "18:00",
       "date": "07.11.2026",
-      "odds": "MS1: 1.15 | X: 8.00 | MS2: 18.00"
+      "odds": "MS1: 1.16 | X: 8.00 | MS2: 18.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -128,7 +144,7 @@
       "away": "Newcastle United",
       "time": "18:00",
       "date": "07.11.2026",
-      "odds": "MS1: 2.25 | X: 3.65 | MS2: 3.15"
+      "odds": "MS1: 2.16 | X: 3.55 | MS2: 3.20"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -144,7 +160,7 @@
       "away": "Chelsea",
       "time": "17:00",
       "date": "08.11.2026",
-      "odds": "MS1: 3.50 | X: 3.50 | MS2: 2.08"
+      "odds": "MS1: 3.85 | X: 3.60 | MS2: 2.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -176,7 +192,7 @@
       "away": "Aston Villa",
       "time": "19:30",
       "date": "08.11.2026",
-      "odds": "MS1: 2.18 | X: 3.85 | MS2: 3.00"
+      "odds": "MS1: 2.30 | X: 3.85 | MS2: 2.95"
     }
   ]
 }
