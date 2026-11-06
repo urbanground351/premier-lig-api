@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-11-06T05:24:17.897049",
+  "last_updated": "2026-11-06T18:56:59.631040",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Birmingham U21",
-      "away": "West Ham U21",
-      "time": "16:00",
-      "date": "06.11.2026",
-      "odds": "MS1: 3.95 | X: 4.00 | MS2: 1.58"
-    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Sunderland U21",
@@ -24,7 +16,7 @@
       "away": "Wolverhampton Wanderers U21",
       "time": "22:00",
       "date": "06.11.2026",
-      "odds": "MS1: 1.58 | X: 4.10 | MS2: 3.90"
+      "odds": "MS1: 1.56 | X: 4.25 | MS2: 3.90"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -32,7 +24,7 @@
       "away": "Leicester City U21",
       "time": "22:00",
       "date": "06.11.2026",
-      "odds": "MS1: 2.60 | X: 3.50 | MS2: 2.16"
+      "odds": "MS1: 2.38 | X: 3.50 | MS2: 2.33"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -64,7 +56,7 @@
       "away": "Coventry City",
       "time": "23:00",
       "date": "06.11.2026",
-      "odds": "MS1: 1.67 | X: 3.95 | MS2: 5.00"
+      "odds": "MS1: 1.62 | X: 4.10 | MS2: 5.30"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -72,7 +64,7 @@
       "away": "Tottenham",
       "time": "15:30",
       "date": "07.11.2026",
-      "odds": "MS1: 2.65 | X: 3.35 | MS2: 2.65"
+      "odds": "MS1: 2.80 | X: 3.40 | MS2: 2.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -80,7 +72,7 @@
       "away": "Hull City",
       "time": "18:00",
       "date": "07.11.2026",
-      "odds": "MS1: 1.17 | X: 7.50 | MS2: 18.00"
+      "odds": "MS1: 1.15 | X: 8.00 | MS2: 20.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -88,7 +80,7 @@
       "away": "Newcastle United",
       "time": "18:00",
       "date": "07.11.2026",
-      "odds": "MS1: 2.07 | X: 3.60 | MS2: 3.45"
+      "odds": "MS1: 1.97 | X: 3.70 | MS2: 3.70"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -104,7 +96,7 @@
       "away": "Chelsea",
       "time": "17:00",
       "date": "08.11.2026",
-      "odds": "MS1: 3.80 | X: 3.50 | MS2: 2.00"
+      "odds": "MS1: 3.90 | X: 3.65 | MS2: 1.94"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -112,7 +104,7 @@
       "away": "Brentford",
       "time": "17:00",
       "date": "08.11.2026",
-      "odds": "MS1: 1.91 | X: 3.85 | MS2: 3.75"
+      "odds": "MS1: 1.88 | X: 3.85 | MS2: 3.85"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -120,7 +112,7 @@
       "away": "Liverpool",
       "time": "17:00",
       "date": "08.11.2026",
-      "odds": "MS1: 5.20 | X: 4.35 | MS2: 1.60"
+      "odds": "MS1: 5.50 | X: 4.50 | MS2: 1.55"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -128,7 +120,7 @@
       "away": "Bournemouth",
       "time": "17:00",
       "date": "08.11.2026",
-      "odds": "MS1: 3.65 | X: 3.75 | MS2: 1.95"
+      "odds": "MS1: 3.80 | X: 3.80 | MS2: 1.91"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -136,7 +128,7 @@
       "away": "Aston Villa",
       "time": "19:30",
       "date": "08.11.2026",
-      "odds": "MS1: 2.20 | X: 3.70 | MS2: 3.05"
+      "odds": "MS1: 2.23 | X: 3.65 | MS2: 3.05"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -160,7 +152,7 @@
       "away": "Leeds United",
       "time": "18:00",
       "date": "21.11.2026",
-      "odds": "MS1: 1.80 | X: 3.85 | MS2: 4.25"
+      "odds": "MS1: 1.81 | X: 3.80 | MS2: 4.25"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -200,7 +192,7 @@
       "away": "Brighton",
       "time": "17:00",
       "date": "22.11.2026",
-      "odds": "MS1: 6.50 | X: 4.60 | MS2: 1.50"
+      "odds": "MS1: 6.25 | X: 4.50 | MS2: 1.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -208,7 +200,7 @@
       "away": "Manchester United",
       "time": "19:30",
       "date": "22.11.2026",
-      "odds": "MS1: 1.81 | X: 4.00 | MS2: 4.00"
+      "odds": "MS1: 1.84 | X: 3.90 | MS2: 4.00"
     },
     {
       "league": "İngiltere Premier Lig",
