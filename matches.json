@@ -1,63 +1,7 @@
 {
-  "last_updated": "2026-11-06T18:56:59.631040",
+  "last_updated": "2026-11-07T04:52:38.981023",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Sunderland U21",
-      "away": "Blackburn Rovers U21",
-      "time": "22:00",
-      "date": "06.11.2026",
-      "odds": "MS1: 1.48 | X: 4.60 | MS2: 4.20"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Brentford U21",
-      "away": "Wolverhampton Wanderers U21",
-      "time": "22:00",
-      "date": "06.11.2026",
-      "odds": "MS1: 1.56 | X: 4.25 | MS2: 3.90"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Nottingham Forest U21",
-      "away": "Leicester City U21",
-      "time": "22:00",
-      "date": "06.11.2026",
-      "odds": "MS1: 2.38 | X: 3.50 | MS2: 2.33"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Reading U21",
-      "away": "Newcastle United FC U21",
-      "time": "22:00",
-      "date": "06.11.2026",
-      "odds": "MS1: 2.14 | X: 3.55 | MS2: 2.60"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Stoke City U21",
-      "away": "Fulham U21",
-      "time": "22:00",
-      "date": "06.11.2026",
-      "odds": "MS1: 3.25 | X: 3.80 | MS2: 1.77"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Quorn FC",
-      "away": "Alfreton Town",
-      "time": "22:45",
-      "date": "06.11.2026",
-      "odds": "MS1: 2.80 | X: 3.35 | MS2: 2.07"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Everton",
-      "away": "Coventry City",
-      "time": "23:00",
-      "date": "06.11.2026",
-      "odds": "MS1: 1.62 | X: 4.10 | MS2: 5.30"
-    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Leeds United",
@@ -72,7 +16,7 @@
       "away": "Hull City",
       "time": "18:00",
       "date": "07.11.2026",
-      "odds": "MS1: 1.15 | X: 8.00 | MS2: 20.00"
+      "odds": "MS1: 1.15 | X: 8.00 | MS2: 19.00"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -80,7 +24,7 @@
       "away": "Newcastle United",
       "time": "18:00",
       "date": "07.11.2026",
-      "odds": "MS1: 1.97 | X: 3.70 | MS2: 3.70"
+      "odds": "MS1: 1.98 | X: 3.65 | MS2: 3.70"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -88,7 +32,7 @@
       "away": "Manchester City",
       "time": "20:30",
       "date": "07.11.2026",
-      "odds": "MS1: 4.60 | X: 4.10 | MS2: 1.71"
+      "odds": "MS1: 4.75 | X: 4.00 | MS2: 1.70"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -120,7 +64,7 @@
       "away": "Bournemouth",
       "time": "17:00",
       "date": "08.11.2026",
-      "odds": "MS1: 3.80 | X: 3.80 | MS2: 1.91"
+      "odds": "MS1: 3.95 | X: 3.80 | MS2: 1.87"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -128,7 +72,15 @@
       "away": "Aston Villa",
       "time": "19:30",
       "date": "08.11.2026",
-      "odds": "MS1: 2.23 | X: 3.65 | MS2: 3.05"
+      "odds": "MS1: 2.15 | X: 3.65 | MS2: 3.20"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Redditch",
+      "away": "Peterborough Sports",
+      "time": "22:45",
+      "date": "09.11.2026",
+      "odds": "MS1: 2.30 | X: 3.25 | MS2: 2.65"
     },
     {
       "league": "İngiltere Premier Lig",
