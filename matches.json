@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-09T21:58:28.632408",
+  "last_updated": "2026-11-10T06:09:54.498423",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Millwall U21",
+      "away": "Brighton U21",
+      "time": "22:00",
+      "date": "10.11.2026",
+      "odds": "MS1: 3.20 | X: 3.40 | MS2: 1.90"
+    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Chertsey Town",
@@ -24,7 +32,15 @@
       "away": "Halesowen Town",
       "time": "22:45",
       "date": "10.11.2026",
-      "odds": "MS1: 2.63 | X: 3.60 | MS2: 2.18"
+      "odds": "MS1: 2.43 | X: 3.55 | MS2: 2.35"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Whitehawk",
+      "away": "Welling United",
+      "time": "22:45",
+      "date": "10.11.2026",
+      "odds": "MS1: 4.90 | X: 3.90 | MS2: 1.48"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -84,6 +100,14 @@
     },
     {
       "league": "İngiltere Premier Lig",
+      "home": "Bury Town FC",
+      "away": "Bishop's Stortford FC",
+      "time": "22:45",
+      "date": "10.11.2026",
+      "odds": "MS1: 1.78 | X: 3.45 | MS2: 3.75"
+    },
+    {
+      "league": "İngiltere Premier Lig",
       "home": "Redcar Athletic",
       "away": "Bamber Bridge",
       "time": "22:45",
@@ -140,11 +164,35 @@
     },
     {
       "league": "İngiltere Premier Lig",
+      "home": "Stourbridge",
+      "away": "Alvechurch FC",
+      "time": "22:45",
+      "date": "10.11.2026",
+      "odds": "MS1: 2.48 | X: 3.20 | MS2: 2.48"
+    },
+    {
+      "league": "İngiltere Premier Lig",
       "home": "Stratford Town",
       "away": "Banbury United FC",
       "time": "22:45",
       "date": "10.11.2026",
       "odds": "MS1: 2.28 | X: 3.10 | MS2: 2.80"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Chatham Town",
+      "away": "Leatherhead",
+      "time": "22:45",
+      "date": "10.11.2026",
+      "odds": "MS1: 1.87 | X: 3.35 | MS2: 3.30"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Bath City",
+      "away": "Taunton Town",
+      "time": "22:45",
+      "date": "10.11.2026",
+      "odds": "MS1: 1.74 | X: 3.40 | MS2: 3.75"
     },
     {
       "league": "İngiltere Premier Lig",
