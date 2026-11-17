@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T21:41:08.401842",
+  "last_updated": "2026-11-17T06:49:51.707734",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
     {
@@ -9,14 +9,6 @@
       "time": "22:45",
       "date": "17.11.2026",
       "odds": "MS1: 1.76 | X: 3.65 | MS2: 3.40"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Burgess Hill Town",
-      "away": "Brentwood Town",
-      "time": "22:45",
-      "date": "17.11.2026",
-      "odds": "MS1: 2.35 | X: 3.35 | MS2: 2.43"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -33,6 +25,14 @@
       "time": "22:45",
       "date": "17.11.2026",
       "odds": "MS1: 1.71 | X: 3.40 | MS2: 3.85"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Havant & Waterlooville",
+      "away": "Bracknell Town",
+      "time": "22:45",
+      "date": "17.11.2026",
+      "odds": "MS1: 1.74 | X: 3.70 | MS2: 3.40"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -68,11 +68,27 @@
     },
     {
       "league": "İngiltere Premier Lig",
+      "home": "Hyde FC",
+      "away": "Warrington Rylands 1906 FC",
+      "time": "22:45",
+      "date": "17.11.2026",
+      "odds": "MS1: 2.75 | X: 3.60 | MS2: 2.04"
+    },
+    {
+      "league": "İngiltere Premier Lig",
       "home": "Quorn FC",
       "away": "Bury",
       "time": "22:45",
       "date": "17.11.2026",
-      "odds": "MS1: 4.00 | X: 3.85 | MS2: 1.60"
+      "odds": "MS1: 4.00 | X: 3.75 | MS2: 1.62"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Burgess Hill Town",
+      "away": "Brentwood Town",
+      "time": "22:46",
+      "date": "17.11.2026",
+      "odds": "MS1: 2.35 | X: 3.35 | MS2: 2.43"
     },
     {
       "league": "İngiltere Premier Lig",
