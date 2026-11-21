@@ -1,62 +1,14 @@
 {
-  "last_updated": "2026-11-20T19:39:33.942909",
+  "last_updated": "2026-11-21T05:51:22.496914",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Bristol City U21",
-      "away": "Norwich City U21",
-      "time": "22:00",
-      "date": "20.11.2026",
-      "odds": "MS1: 1.27 | X: 5.00 | MS2: 7.50"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "West Bromwich Albion U21",
-      "away": "Coventry City U21",
-      "time": "22:01",
-      "date": "20.11.2026",
-      "odds": "MS1: 2.07 | X: 3.15 | MS2: 3.05"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Burnley U21",
-      "away": "Fleetwood Town U21",
-      "time": "22:02",
-      "date": "20.11.2026",
-      "odds": "MS1: 1.95 | X: 3.25 | MS2: 3.25"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Queens Park Rangers U21",
-      "away": "Blackburn Rovers U21",
-      "time": "22:02",
-      "date": "20.11.2026",
-      "odds": "MS1: 4.40 | X: 3.35 | MS2: 1.65"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Cardiff City U21",
-      "away": "Plymouth Argyle U21",
-      "time": "22:02",
-      "date": "20.11.2026",
-      "odds": "MS1: 1.33 | X: 4.80 | MS2: 6.10"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Leeds United U21",
-      "away": "Charlton Athletic U21",
-      "time": "22:03",
-      "date": "20.11.2026",
-      "odds": "MS1: 1.87 | X: 3.10 | MS2: 3.65"
-    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Manchester City",
       "away": "Fulham",
       "time": "15:30",
       "date": "21.11.2026",
-      "odds": "MS1: 1.36 | X: 5.40 | MS2: 8.00"
+      "odds": "MS1: 1.36 | X: 5.40 | MS2: 7.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -64,7 +16,7 @@
       "away": "Sunderland",
       "time": "18:00",
       "date": "21.11.2026",
-      "odds": "MS1: 1.78 | X: 3.85 | MS2: 4.30"
+      "odds": "MS1: 1.75 | X: 3.85 | MS2: 4.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -80,7 +32,7 @@
       "away": "Nottingham Forest",
       "time": "18:00",
       "date": "21.11.2026",
-      "odds": "MS1: 1.93 | X: 3.60 | MS2: 3.90"
+      "odds": "MS1: 1.94 | X: 3.55 | MS2: 3.90"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -88,7 +40,7 @@
       "away": "Crystal Palace",
       "time": "18:00",
       "date": "21.11.2026",
-      "odds": "MS1: 2.55 | X: 3.30 | MS2: 2.80"
+      "odds": "MS1: 2.60 | X: 3.25 | MS2: 2.80"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -104,7 +56,7 @@
       "away": "Arsenal",
       "time": "20:30",
       "date": "21.11.2026",
-      "odds": "MS1: 6.00 | X: 4.25 | MS2: 1.54"
+      "odds": "MS1: 6.00 | X: 4.25 | MS2: 1.55"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -112,7 +64,7 @@
       "away": "Brighton",
       "time": "17:00",
       "date": "22.11.2026",
-      "odds": "MS1: 6.25 | X: 4.40 | MS2: 1.50"
+      "odds": "MS1: 6.50 | X: 4.40 | MS2: 1.50"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -120,7 +72,7 @@
       "away": "Manchester United",
       "time": "19:30",
       "date": "22.11.2026",
-      "odds": "MS1: 1.64 | X: 4.20 | MS2: 4.90"
+      "odds": "MS1: 1.66 | X: 4.20 | MS2: 4.75"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -129,6 +81,86 @@
       "time": "23:00",
       "date": "23.11.2026",
       "odds": "MS1: 2.10 | X: 3.60 | MS2: 3.40"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Nottingham Forest",
+      "away": "Chelsea",
+      "time": "23:00",
+      "date": "27.11.2026",
+      "odds": "MS1: 2.88 | X: 3.60 | MS2: 2.45"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Leeds United",
+      "away": "Coventry City",
+      "time": "18:00",
+      "date": "28.11.2026",
+      "odds": "MS1: 1.61 | X: 4.20 | MS2: 5.75"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Manchester United",
+      "away": "Brentford",
+      "time": "18:00",
+      "date": "28.11.2026",
+      "odds": "MS1: 2.00 | X: 3.95 | MS2: 3.55"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Ipswich Town",
+      "away": "Aston Villa",
+      "time": "20:30",
+      "date": "28.11.2026",
+      "odds": "MS1: 3.45 | X: 3.95 | MS2: 2.04"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Everton",
+      "away": "Liverpool",
+      "time": "15:00",
+      "date": "29.11.2026",
+      "odds": "MS1: 3.45 | X: 3.65 | MS2: 2.05"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Brighton",
+      "away": "Newcastle United",
+      "time": "17:05",
+      "date": "29.11.2026",
+      "odds": "MS1: 1.55 | X: 4.50 | MS2: 5.50"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Crystal Palace",
+      "away": "Hull City",
+      "time": "17:05",
+      "date": "29.11.2026",
+      "odds": "MS1: 1.86 | X: 3.75 | MS2: 4.10"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Fulham",
+      "away": "Bournemouth",
+      "time": "17:05",
+      "date": "29.11.2026",
+      "odds": "MS1: 2.65 | X: 3.60 | MS2: 2.65"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Sunderland",
+      "away": "Tottenham",
+      "time": "17:05",
+      "date": "29.11.2026",
+      "odds": "MS1: 3.30 | X: 3.50 | MS2: 2.23"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "time": "19:30",
+      "date": "29.11.2026",
+      "odds": "MS1: 2.04 | X: 3.70 | MS2: 3.45"
     }
   ]
 }
