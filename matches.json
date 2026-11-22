@@ -1,46 +1,14 @@
 {
-  "last_updated": "2026-11-22T05:23:48.147601",
+  "last_updated": "2026-11-22T19:07:02.568601",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Peterborough United U21",
-      "away": "Luton Town Reserves",
-      "time": "16:00",
-      "date": "22.11.2026",
-      "odds": "MS1: 1.45 | X: 4.70 | MS2: 4.50"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Brentford U21",
-      "away": "Hull City U21",
-      "time": "16:00",
-      "date": "22.11.2026",
-      "odds": "MS1: 1.78 | X: 3.35 | MS2: 3.70"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Hull City",
-      "away": "Brighton",
-      "time": "17:00",
-      "date": "22.11.2026",
-      "odds": "MS1: 6.50 | X: 4.50 | MS2: 1.48"
-    },
-    {
-      "league": "İngiltere Premier Lig",
-      "home": "Liverpool",
-      "away": "Manchester United",
-      "time": "19:30",
-      "date": "22.11.2026",
-      "odds": "MS1: 1.67 | X: 4.20 | MS2: 4.60"
-    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Brentford",
       "away": "Everton",
       "time": "23:00",
       "date": "23.11.2026",
-      "odds": "MS1: 2.17 | X: 3.55 | MS2: 3.20"
+      "odds": "MS1: 2.23 | X: 3.50 | MS2: 3.10"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -88,7 +56,7 @@
       "away": "Chelsea",
       "time": "23:00",
       "date": "27.11.2026",
-      "odds": "MS1: 2.88 | X: 3.60 | MS2: 2.45"
+      "odds": "MS1: 2.85 | X: 3.55 | MS2: 2.48"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -96,7 +64,7 @@
       "away": "Coventry City",
       "time": "18:00",
       "date": "28.11.2026",
-      "odds": "MS1: 1.61 | X: 4.20 | MS2: 5.75"
+      "odds": "MS1: 1.58 | X: 4.25 | MS2: 6.00"
     },
     {
       "league": "İngiltere Premier Lig",
