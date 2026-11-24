@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-23T23:26:50.453859",
+  "last_updated": "2026-11-24T08:40:14.139141",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Sheffield United U21",
+      "away": "Millwall U21",
+      "time": "22:00",
+      "date": "24.11.2026",
+      "odds": "MS1: 2.07 | X: 3.75 | MS2: 2.63"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Queens Park Rangers U21",
+      "away": "Southampton U21",
+      "time": "22:00",
+      "date": "24.11.2026",
+      "odds": "MS1: 4.20 | X: 4.40 | MS2: 1.50"
+    },
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Huddersfield Town U21",
+      "away": "Swansea U21",
+      "time": "22:00",
+      "date": "24.11.2026",
+      "odds": "MS1: 2.10 | X: 4.10 | MS2: 2.43"
+    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Chippenham Town",
@@ -72,7 +96,7 @@
       "away": "Aston Villa",
       "time": "20:30",
       "date": "28.11.2026",
-      "odds": "MS1: 3.40 | X: 3.85 | MS2: 2.00"
+      "odds": "MS1: 3.55 | X: 3.90 | MS2: 1.95"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -80,7 +104,7 @@
       "away": "Liverpool",
       "time": "15:00",
       "date": "29.11.2026",
-      "odds": "MS1: 3.95 | X: 3.70 | MS2: 1.89"
+      "odds": "MS1: 3.90 | X: 3.65 | MS2: 1.92"
     },
     {
       "league": "İngiltere Premier Lig",
@@ -192,7 +216,7 @@
       "away": "Everton",
       "time": "23:15",
       "date": "02.12.2026",
-      "odds": "MS1: 2.00 | X: 3.75 | MS2: 3.70"
+      "odds": "MS1: 2.00 | X: 3.60 | MS2: 3.60"
     },
     {
       "league": "İngiltere Premier Lig",
