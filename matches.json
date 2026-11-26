@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-25T21:08:13.106386",
+  "last_updated": "2026-11-26T07:03:26.507642",
   "source": "Kambi CDN (Genişletilmiş İngiltere Ağı)",
   "matches": [
+    {
+      "league": "İngiltere Premier Lig",
+      "home": "Burnley U21",
+      "away": "Wolverhampton Wanderers U21",
+      "time": "22:00",
+      "date": "26.11.2026",
+      "odds": "MS1: 2.70 | X: 3.60 | MS2: 2.10"
+    },
     {
       "league": "İngiltere Premier Lig",
       "home": "Warrington Rylands 1906 FC",
@@ -136,7 +144,7 @@
       "away": "Crystal Palace",
       "time": "22:30",
       "date": "02.12.2026",
-      "odds": "MS1: 1.65 | X: 4.50 | MS2: 4.80"
+      "odds": "MS1: 1.62 | X: 4.50 | MS2: 4.75"
     },
     {
       "league": "İngiltere Premier Lig",
